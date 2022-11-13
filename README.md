@@ -7,5 +7,6 @@ hvordan kjøre applikasjonen fra mac:
 // klikk på knappen "code" og deretter "download zip" <br/>
 // åpne terminalen, gå til lokasjonen for zip-filen. <br/>
 // kompiler koden med følgende kommando: "javac -cp ".:gson-2.10.jar" OsloBysykkel.java"<br/>
-// kjør applikasjonen med følgende kommando: "java -cp ".:gson-2.10.jar" OsloBysykkel"
+// kjør applikasjonen med følgende kommando: "java -cp ".:gson-2.10.jar" OsloBysykkel" <br/>
 
+![Screenshot](OsloOrigo_screenshot.png)
